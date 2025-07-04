@@ -1,0 +1,14 @@
+C:\Work\PoC\BehavioralPatternsPoC\ChainOfResponsabilityPattern\obj\Debug\net9.0\ChainOfResponsabilityPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\PoC\BehavioralPatternsPoC\ChainOfResponsabilityPattern\obj\Debug\net9.0\ChainOfResponsabilityPattern.AssemblyInfoInputs.cache
+C:\Work\PoC\BehavioralPatternsPoC\ChainOfResponsabilityPattern\obj\Debug\net9.0\ChainOfResponsabilityPattern.AssemblyInfo.cs
+C:\Work\PoC\BehavioralPatternsPoC\ChainOfResponsabilityPattern\obj\Debug\net9.0\ChainOfResponsabilityPattern.csproj.CoreCompileInputs.cache
+C:\Work\PoC\BehavioralPatternsPoC\ChainOfResponsabilityPattern\bin\Debug\net9.0\ChainOfResponsabilityPattern.exe
+C:\Work\PoC\BehavioralPatternsPoC\ChainOfResponsabilityPattern\bin\Debug\net9.0\ChainOfResponsabilityPattern.deps.json
+C:\Work\PoC\BehavioralPatternsPoC\ChainOfResponsabilityPattern\bin\Debug\net9.0\ChainOfResponsabilityPattern.runtimeconfig.json
+C:\Work\PoC\BehavioralPatternsPoC\ChainOfResponsabilityPattern\bin\Debug\net9.0\ChainOfResponsabilityPattern.dll
+C:\Work\PoC\BehavioralPatternsPoC\ChainOfResponsabilityPattern\bin\Debug\net9.0\ChainOfResponsabilityPattern.pdb
+C:\Work\PoC\BehavioralPatternsPoC\ChainOfResponsabilityPattern\obj\Debug\net9.0\ChainOfResponsabilityPattern.dll
+C:\Work\PoC\BehavioralPatternsPoC\ChainOfResponsabilityPattern\obj\Debug\net9.0\refint\ChainOfResponsabilityPattern.dll
+C:\Work\PoC\BehavioralPatternsPoC\ChainOfResponsabilityPattern\obj\Debug\net9.0\ChainOfResponsabilityPattern.pdb
+C:\Work\PoC\BehavioralPatternsPoC\ChainOfResponsabilityPattern\obj\Debug\net9.0\ChainOfResponsabilityPattern.genruntimeconfig.cache
+C:\Work\PoC\BehavioralPatternsPoC\ChainOfResponsabilityPattern\obj\Debug\net9.0\ref\ChainOfResponsabilityPattern.dll
