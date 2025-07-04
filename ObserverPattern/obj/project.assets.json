@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Work\\PoC\\BehavioralPatternsPoC\\ObserverPattern\\ObserverPattern.csproj",
+      "projectUniqueName": "C:\\Work\\PoC\\BehavioralPatterns\\ObserverPattern\\ObserverPattern.csproj",
       "projectName": "ObserverPattern",
-      "projectPath": "C:\\Work\\PoC\\BehavioralPatternsPoC\\ObserverPattern\\ObserverPattern.csproj",
+      "projectPath": "C:\\Work\\PoC\\BehavioralPatterns\\ObserverPattern\\ObserverPattern.csproj",
       "packagesPath": "C:\\Users\\yesid.balvins\\.nuget\\packages\\",
-      "outputPath": "C:\\Work\\PoC\\BehavioralPatternsPoC\\ObserverPattern\\obj\\",
+      "outputPath": "C:\\Work\\PoC\\BehavioralPatterns\\ObserverPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

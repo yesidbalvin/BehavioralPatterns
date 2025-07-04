@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jjPultIFmbU=",
+  "dgSpecHash": "UrifwYexn0Q=",
   "success": true,
-  "projectFilePath": "C:\\Work\\PoC\\BehavioralPatternsPoC\\ChainOfResponsabilityPattern\\ChainOfResponsabilityPattern.csproj",
+  "projectFilePath": "C:\\Work\\PoC\\BehavioralPatterns\\ChainOfResponsabilityPattern\\ChainOfResponsabilityPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

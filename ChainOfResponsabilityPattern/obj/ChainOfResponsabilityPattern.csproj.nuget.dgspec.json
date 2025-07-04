@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\PoC\\BehavioralPatternsPoC\\ChainOfResponsabilityPattern\\ChainOfResponsabilityPattern.csproj": {}
+    "C:\\Work\\PoC\\BehavioralPatterns\\ChainOfResponsabilityPattern\\ChainOfResponsabilityPattern.csproj": {}
   },
   "projects": {
-    "C:\\Work\\PoC\\BehavioralPatternsPoC\\ChainOfResponsabilityPattern\\ChainOfResponsabilityPattern.csproj": {
+    "C:\\Work\\PoC\\BehavioralPatterns\\ChainOfResponsabilityPattern\\ChainOfResponsabilityPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\PoC\\BehavioralPatternsPoC\\ChainOfResponsabilityPattern\\ChainOfResponsabilityPattern.csproj",
+        "projectUniqueName": "C:\\Work\\PoC\\BehavioralPatterns\\ChainOfResponsabilityPattern\\ChainOfResponsabilityPattern.csproj",
         "projectName": "ChainOfResponsabilityPattern",
-        "projectPath": "C:\\Work\\PoC\\BehavioralPatternsPoC\\ChainOfResponsabilityPattern\\ChainOfResponsabilityPattern.csproj",
+        "projectPath": "C:\\Work\\PoC\\BehavioralPatterns\\ChainOfResponsabilityPattern\\ChainOfResponsabilityPattern.csproj",
         "packagesPath": "C:\\Users\\yesid.balvins\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\PoC\\BehavioralPatternsPoC\\ChainOfResponsabilityPattern\\obj\\",
+        "outputPath": "C:\\Work\\PoC\\BehavioralPatterns\\ChainOfResponsabilityPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
