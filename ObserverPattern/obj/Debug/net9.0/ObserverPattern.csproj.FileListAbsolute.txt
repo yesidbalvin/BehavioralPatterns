@@ -1,0 +1,14 @@
+C:\Work\PoC\BehavioralPatternsPoC\ObserverPattern\bin\Debug\net9.0\ObserverPattern.exe
+C:\Work\PoC\BehavioralPatternsPoC\ObserverPattern\bin\Debug\net9.0\ObserverPattern.deps.json
+C:\Work\PoC\BehavioralPatternsPoC\ObserverPattern\bin\Debug\net9.0\ObserverPattern.runtimeconfig.json
+C:\Work\PoC\BehavioralPatternsPoC\ObserverPattern\bin\Debug\net9.0\ObserverPattern.dll
+C:\Work\PoC\BehavioralPatternsPoC\ObserverPattern\bin\Debug\net9.0\ObserverPattern.pdb
+C:\Work\PoC\BehavioralPatternsPoC\ObserverPattern\obj\Debug\net9.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\PoC\BehavioralPatternsPoC\ObserverPattern\obj\Debug\net9.0\ObserverPattern.AssemblyInfoInputs.cache
+C:\Work\PoC\BehavioralPatternsPoC\ObserverPattern\obj\Debug\net9.0\ObserverPattern.AssemblyInfo.cs
+C:\Work\PoC\BehavioralPatternsPoC\ObserverPattern\obj\Debug\net9.0\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Work\PoC\BehavioralPatternsPoC\ObserverPattern\obj\Debug\net9.0\ObserverPattern.dll
+C:\Work\PoC\BehavioralPatternsPoC\ObserverPattern\obj\Debug\net9.0\refint\ObserverPattern.dll
+C:\Work\PoC\BehavioralPatternsPoC\ObserverPattern\obj\Debug\net9.0\ObserverPattern.pdb
+C:\Work\PoC\BehavioralPatternsPoC\ObserverPattern\obj\Debug\net9.0\ObserverPattern.genruntimeconfig.cache
+C:\Work\PoC\BehavioralPatternsPoC\ObserverPattern\obj\Debug\net9.0\ref\ObserverPattern.dll

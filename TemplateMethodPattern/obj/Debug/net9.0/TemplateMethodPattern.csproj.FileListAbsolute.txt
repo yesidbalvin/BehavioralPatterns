@@ -1,0 +1,14 @@
+C:\Work\PoC\BehavioralPatternsPoC\TemplateMethodPattern\bin\Debug\net9.0\TemplateMethodPattern.exe
+C:\Work\PoC\BehavioralPatternsPoC\TemplateMethodPattern\bin\Debug\net9.0\TemplateMethodPattern.deps.json
+C:\Work\PoC\BehavioralPatternsPoC\TemplateMethodPattern\bin\Debug\net9.0\TemplateMethodPattern.runtimeconfig.json
+C:\Work\PoC\BehavioralPatternsPoC\TemplateMethodPattern\bin\Debug\net9.0\TemplateMethodPattern.dll
+C:\Work\PoC\BehavioralPatternsPoC\TemplateMethodPattern\bin\Debug\net9.0\TemplateMethodPattern.pdb
+C:\Work\PoC\BehavioralPatternsPoC\TemplateMethodPattern\obj\Debug\net9.0\TemplateMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\PoC\BehavioralPatternsPoC\TemplateMethodPattern\obj\Debug\net9.0\TemplateMethodPattern.AssemblyInfoInputs.cache
+C:\Work\PoC\BehavioralPatternsPoC\TemplateMethodPattern\obj\Debug\net9.0\TemplateMethodPattern.AssemblyInfo.cs
+C:\Work\PoC\BehavioralPatternsPoC\TemplateMethodPattern\obj\Debug\net9.0\TemplateMethodPattern.csproj.CoreCompileInputs.cache
+C:\Work\PoC\BehavioralPatternsPoC\TemplateMethodPattern\obj\Debug\net9.0\TemplateMethodPattern.dll
+C:\Work\PoC\BehavioralPatternsPoC\TemplateMethodPattern\obj\Debug\net9.0\refint\TemplateMethodPattern.dll
+C:\Work\PoC\BehavioralPatternsPoC\TemplateMethodPattern\obj\Debug\net9.0\TemplateMethodPattern.pdb
+C:\Work\PoC\BehavioralPatternsPoC\TemplateMethodPattern\obj\Debug\net9.0\TemplateMethodPattern.genruntimeconfig.cache
+C:\Work\PoC\BehavioralPatternsPoC\TemplateMethodPattern\obj\Debug\net9.0\ref\TemplateMethodPattern.dll
